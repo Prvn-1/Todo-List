@@ -1,3 +1,5 @@
+📌 Project Direct Link - https://praveen-mani-gitzz.github.io/Todo-List/11-todo-list.html
+
 📌 Todo List Application
 
 A simple Todo List web application built using **HTML, CSS, and JavaScript**.
