@@ -1,4 +1,4 @@
-📌 Project Direct Link - https://Prvn-1.github.io/Todo-List/
+📌 Project Direct Link - [https://Prvn-1.github.io/Todo-List/](https://prvn-1.github.io/Todo-List/11-todo-list.html)
 
 📌 Todo List Application
 
