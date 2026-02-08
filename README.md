@@ -1,4 +1,4 @@
-📌 Project Direct Link - https://praveen-mani-gitzz.github.io/Todo-List/11-todo-list.html
+📌 Project Direct Link - https://Prvn-1.github.io/Todo-List/
 
 📌 Todo List Application
 
